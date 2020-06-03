@@ -10,6 +10,15 @@
 8.	LAN 	
 9.	LCD 	
 10.	CRT 	
+10. crt - cathode ray tube
+a vacume tube use on old monitors/tv to display
+
+34. tcp/ip - Transmission internet protocol / Internet protocol
+a protocol use to allowto communicate  two or more devices
+  
+58. VM -  Virtual machine - 
+- allows you to run another operating system on your computer
+
 11.	DOS 	
 12.	IT	
 13.	MIS 	
