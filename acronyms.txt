@@ -9,7 +9,9 @@
 7.	PB	
 8.	LAN 	
 9.	LCD 	
-10.	CRT 	
+10.	CRT
+10. crt - cathode ray tube
+a vacume tube use on old monitors/tv to display
 11.	DOS 	
 12.	IT	
 13.	MIS 	
@@ -33,7 +35,9 @@
 31.	OCR 	
 32.	SLA 	
 33.	FTP 	
-34.	TCP/IP  	
+34.	TCP/IP 
+ tcp/ip - Transmission internet protocol / Internet protocol
+a protocol use to allowto communicate  two or more devices
 35.	DIMM 	
 36.	O365 	
 37.	GHz 	
@@ -58,6 +62,8 @@
 56.	POP	
 57.	NTFS	
 58.	VM	
+58. VM -  Virtual machine - 
+- allows you to run another operating system on your computer
 59.	WAP	
 60.	DBMS	
 61.	W3C	
